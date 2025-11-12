@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPipeline", "CryptoPipeline\CryptoPipeline.csproj", "{BC1F60EF-89BA-4EC4-B5A8-FE43D29DFF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1F60EF-89BA-4EC4-B5A8-FE43D29DFF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1F60EF-89BA-4EC4-B5A8-FE43D29DFF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1F60EF-89BA-4EC4-B5A8-FE43D29DFF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1F60EF-89BA-4EC4-B5A8-FE43D29DFF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26CE3128-49C1-49C0-8115-FD5523C53ACE}
+	EndGlobalSection
+EndGlobal
